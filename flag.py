@@ -9,7 +9,7 @@ screen_height = 350;
 star_length = 200;            
  
 sc.setup(width = screen_width, height = screen_height)
-sc.title("Flag of Vietnam")
+sc.title("VietNam's National Flag")
 
 p.setx((screen_width - star_length)/2 - screen_width/2)
 p.sety(star_length/4)
