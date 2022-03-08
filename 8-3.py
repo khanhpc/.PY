@@ -13,7 +13,6 @@ turtle.title("Khanh")
 widths = turtle.window_width()
 heights = turtle.window_height()
 screen.setup(500, 500)
-# screen.bgpic("background.gif")
 draw_speed = t.speed(2)
 pen_size = t.pensize(8)
 
