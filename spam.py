@@ -4,7 +4,7 @@ import pyscreeze
 import pyautogui, pyperclip, random, time
 
 win = Tk()
-win.title('Đồi Nợ')
+win.title('Spam phát')
 win.geometry('475x230')
 win.resizable(False,False)
 
